@@ -98,6 +98,7 @@ plt.show()
 ```
 ![Image](https://github.com/user-attachments/assets/ee86340b-d0bb-4fe2-b0d0-c9628a527476)
 ![Image](https://github.com/user-attachments/assets/03e37639-ae74-4979-8217-21e869a45422)
+![Image](https://github.com/user-attachments/assets/bf2fedf7-6bbf-45b7-85fc-41fc3fba7da7)
 
 ## Comparison to Original SIS Model
 
