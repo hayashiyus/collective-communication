@@ -96,6 +96,8 @@ plt.ylabel("Average Belief Strength")
 plt.title("Evolution of Belief Strength")
 plt.show()
 ```
+![Image](https://github.com/user-attachments/assets/ee86340b-d0bb-4fe2-b0d0-c9628a527476)
+![Image](https://github.com/user-attachments/assets/03e37639-ae74-4979-8217-21e869a45422)
 
 ## Comparison to Original SIS Model
 
