@@ -1,4 +1,4 @@
-# Language Game-Based Fake News Propagation Model
+## Language Game-Based Fake News Propagation Model
 
 This repository contains an implementation of a language game-based approach to fake news propagation simulation. It replaces the epidemiological SIS (Susceptible-Infected-Susceptible) model used in the original [FPS repository](https://github.com/LiuYuHan31/FPS) with a more sophisticated Bayesian language game approach based on collective inference.
 
